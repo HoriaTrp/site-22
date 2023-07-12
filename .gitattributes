@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1> Test file </h1> 
+	<p>My <span style="color: blue;">beautiful</span> color is going to be the best of this year. </p>
+	<span style="color: red;">red</span></p>
+	<p><a href="https://facebook.com" target="_blank" title="For some fun, at least! Click it, don't worry!"></a></p>
+	<p> <b>if you ever try to!!!!!</b>>my nature is beautiful</i> </p>
+	<a href="https://google.com" target="_blank" title="Let's go to google, please!"> Click me, I am a link</a>
+	<p><a href="https://facebook.com" target="_blank" title="For some fun, at least! Click it, don't worry!">Hey! This is facebook!</a></p>
+	<p>My name is:<br>
+	Kitty cat</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg">
+</body>
+</html>
